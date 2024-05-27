@@ -1,20 +1,38 @@
-PmdDevops
-This project was generated with Angular CLI version 17.1.1.
+Nest Logo
 
-Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
+A progressive Node.js framework for building efficient and scalable server-side applications.
 
-Code scaffolding
-Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on Open Collective Sponsors on Open Collective  Support us 
 
-Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
+Description
+Nest framework TypeScript starter repository.
 
-Running unit tests
-Run ng test to execute the unit tests via Karma.
+Installation
+$ npm install
+Running the app
+# development
+$ npm run start
 
-Running end-to-end tests
-Run ng e2e to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# watch mode
+$ npm run start:dev
 
-Further help
-To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
+# production mode
+$ npm run start:prod
+Test
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+Support
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please read more here.
+
+Stay in touch
+Author - Kamil Myśliwiec
+Website - https://nestjs.com
+Twitter - @nestframework
+License
+Nest is MIT licensed.
