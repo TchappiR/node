@@ -1,10 +1,8 @@
-Nest Logo
-
 A progressive Node.js framework for building efficient and scalable server-side applications.
 
 NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on Open Collective Sponsors on Open Collective  Support us 
 
-Description
+# Description
 Nest framework TypeScript starter repository.
 
 Installation
